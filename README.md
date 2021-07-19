@@ -2,6 +2,7 @@
 
 Проект представляет собой сайт с информацие по вселенной плио (персонажи, книги, дома) берущий данный с [API of I&F](https://anapioficeandfire.com/) с функциональностью на JS + React
 
+## UI проекта
 ### Окно рандомного персонажа
 ![Alt-текст](https://sun9-44.userapi.com/impg/298xt2a_rl5bBPXTiG5J43sEKu8j4S7wNxcA2w/8zZRzqJJPU0.jpg?size=1141x501&quality=96&sign=b7aa3aa113e0942de7222c2c5c3a28b2&type=album "Рандомный персонаж")
 ### Список персонажей
